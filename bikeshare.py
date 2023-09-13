@@ -255,5 +255,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
+# This code will perform data analysis and answer questions about bikesharing in the US
+
 if __name__ == "__main__":
 	main()
