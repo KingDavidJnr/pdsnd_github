@@ -3,6 +3,9 @@
 ### Date created
 This project was created and ubmitted on the 13th of September 2023.
 
+### Project Author
+This project was done and submitted by David Oduse
+
 ### Project Title
 Git & Version Control
 
