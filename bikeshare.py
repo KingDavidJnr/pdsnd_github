@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+'''The Bikeshare Data File'''
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -252,6 +254,8 @@ def main():
         restart = input("\nWould you like to restart? Enter yes or no.\n")
         if restart.lower() != 'yes':
             break
+
+# This code will perform data analysis and answer questions about bikesharing in the US
 
 if __name__ == "__main__":
 	main()
