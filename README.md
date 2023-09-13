@@ -6,6 +6,9 @@ This project was created and ubmitted on the 13th of September 2023.
 ### Project Title
 Git & Version Control
 
+### Project Repository
+The project repository containing this project is hosted [here](https://github.com/KingDavidJnr/pdsnd_github)
+
 ### Description
 This project teaches one how to utilize Git and Github to showcase one's prtfolio of projects to the public.
 
